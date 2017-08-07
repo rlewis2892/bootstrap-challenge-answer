@@ -72,7 +72,7 @@
 		<section>
 			<div class="container">
 				<div class="row">
-					<div class="col-md-3">
+					<div class="col-xs-8 col-xs-offset-2 col-md-3 col-md-offset-0">
 						<img class="img-responsive" src="https://www.fillmurray.com/300/300" alt="1980s Bill Murray">
 					</div>
 					<div class="col-md-9">
@@ -86,26 +86,26 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-3">
-						<img class="img-responsive img-circle" src="https://www.fillmurray.com/250/250" alt="classy bill murray">
-						<div class="well">
+						<img class="img-responsive img-circle center-block" src="https://www.fillmurray.com/250/250" alt="classy bill murray">
+						<div class="well text-center">
 							<p>Cliche hoodie organic letterpress farm-to-table keffiyeh post-ironic shoreditch man bun. Twee cronut scenester, blog semiotics shabby chic selfies beard viral shoreditch.</p>
 						</div>
 					</div>
 					<div class="col-md-3">
-						<img class="img-responsive img-circle" src="https://www.fillmurray.com/250/250" alt="classy bill murray">
-						<div class="well">
+						<img class="img-responsive img-circle center-block" src="https://www.fillmurray.com/250/250" alt="classy bill murray">
+						<div class="well text-center">
 							<p>Cliche hoodie organic letterpress farm-to-table keffiyeh post-ironic shoreditch man bun. Twee cronut scenester, blog semiotics shabby chic selfies beard viral shoreditch.</p>
 						</div>
 					</div>
 					<div class="col-md-3">
-						<img class="img-responsive img-circle" src="https://www.fillmurray.com/250/250" alt="classy bill murray">
-						<div class="well">
+						<img class="img-responsive img-circle center-block" src="https://www.fillmurray.com/250/250" alt="classy bill murray">
+						<div class="well text-center">
 							<p>Cliche hoodie organic letterpress farm-to-table keffiyeh post-ironic shoreditch man bun. Twee cronut scenester, blog semiotics shabby chic selfies beard viral shoreditch.</p>
 						</div>
 					</div>
 					<div class="col-md-3">
-						<img class="img-responsive img-circle" src="https://www.fillmurray.com/250/250" alt="classy bill murray">
-						<div class="well">
+						<img class="img-responsive img-circle center-block" src="https://www.fillmurray.com/250/250" alt="classy bill murray">
+						<div class="well text-center">
 							<p>Cliche hoodie organic letterpress farm-to-table keffiyeh post-ironic shoreditch man bun. Twee cronut scenester, blog semiotics shabby chic selfies beard viral shoreditch.</p>
 						</div>
 					</div>
