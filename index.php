@@ -72,11 +72,11 @@
 		<section>
 			<div class="container">
 				<div class="row">
-					<div class="col-xs-8 col-xs-offset-2 col-md-3 col-md-offset-0">
-						<img class="img-responsive" src="https://www.fillmurray.com/300/300" alt="1980s Bill Murray">
+					<div class="col-md-3">
+						<img class="img-responsive center-block" src="https://www.fillmurray.com/300/300" alt="1980s Bill Murray">
 					</div>
 					<div class="col-md-9">
-						<p>Hammock slow-carb hell of waistcoat umami adaptogen butcher salvia cronut irony raw denim la croix kale chips. Snackwave fashion axe trust fund retro, cornhole blue bottle hashtag +1 offal kitsch tattooed XOXO biodiesel. Hella food truck kogi, bushwick photo booth fam plaid offal. Stumptown succulents yuccie hashtag dreamcatcher deep v occupy. Everyday carry semiotics photo booth seitan, swag mixtape prism heirloom beard knausgaard polaroid tofu neutra kickstarter. Pabst squid brunch, slow-carb banjo paleo biodiesel hammock pug. Franzen heirloom put a bird on it pug direct trade. Authentic crucifix knausgaard poutine copper mug tbh literally pitchfork.</p>
+						<p class="lead text-justify">Hammock slow-carb hell of waistcoat umami adaptogen butcher salvia cronut irony raw denim la croix kale chips. Snackwave fashion axe trust fund retro, cornhole blue bottle hashtag +1 offal kitsch tattooed XOXO biodiesel. Hella food truck kogi, bushwick photo booth fam plaid offal. Stumptown succulents yuccie hashtag dreamcatcher deep v occupy. Everyday carry semiotics photo booth seitan, swag mixtape prism heirloom beard knausgaard polaroid tofu neutra kickstarter. Pabst squid brunch, slow-carb banjo paleo biodiesel hammock pug. Franzen heirloom put a bird on it pug direct trade. Authentic crucifix knausgaard poutine copper mug tbh literally pitchfork.</p>
 					</div>
 				</div>
 			</div>
@@ -116,7 +116,7 @@
 		<footer>
 			<div class="container">
 				<div class="row">
-					<div class="col-xs-12">
+					<div class="col-xs-12 text-center">
 						<small>Direct trade street art pitchfork vegan.</small>
 					</div>
 				</div>
