@@ -1,4 +1,4 @@
-section:nth-child(3) {
+section:nth-child(2) {
 	background-color: lightgray;
 }
 
@@ -12,7 +12,43 @@ section {
 	padding: 10rem 0;
 }
 
-section:nth-child(4) img,
-section:nth-child(4) .col-md-3 {
+section:nth-child(3) img,
+section:nth-child(3) .col-md-3 {
 	margin-bottom: 4rem;
+}
+
+/* Custom Theme CSS Rules */
+section:nth-child(1) {
+	background: url("../img/fox.jpg") no-repeat center center;
+	height: 100vh;
+	background-attachment: fixed;
+}
+
+.jumbotron {
+	background-color: rgba(255,255,255,0.4);
+	border-radius: 0;
+	text-align: center;
+}
+
+.jumbotron h1 {
+	color: navy;
+	font-family: "Playball", serif;
+}
+
+button.btn.btn-primary {
+	background-color: transparent;
+	border-radius: 0;
+	padding: 1rem 4rem;
+	border-color: navy;
+	border-width: 3px;
+	color: navy;
+	font-size: 2rem;
+}
+
+button.btn.btn-primary:focus {
+	color: #fff;
+	background-color: rgba(0,0,0,0.3);
+	border-color: #122b40;
+	outline: transparent;
+	box-shadow: none;
 }
